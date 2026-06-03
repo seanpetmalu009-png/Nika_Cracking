@@ -107,7 +107,7 @@ def check_key():
         user_key = input("\nEnter your key (visible): ")
         user_norm = normalize(user_key)
         if user_norm in approved_normalized:
-            print(f"\n{WHITE YELLOW BLUE RED}Key approved! Script is running...{RESET}\n")
+            print(f"\n{WHITE + YELLOW + BLUE + RED}Key approved! Script is running...{RESET}\n")
             return True
         else:
             attempts += 1
