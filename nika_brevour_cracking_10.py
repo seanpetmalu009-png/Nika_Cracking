@@ -637,7 +637,7 @@ if __name__ == '__main__':
 
 # Unit test / coverage reports
 
-.tox/
+tox/
 .nox/
 .coverage
 .coverage.*
