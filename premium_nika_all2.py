@@ -80,8 +80,8 @@ BANNER = f"""{GOLD}
   ║  {BOLD}{BLU}  ██╔══██╗██╔══██╗ ██╔════╝████╗ ████║                    {RST}{GOLD}║
   ║  {BOLD}{GOLD} ██████╔╝██████╔╝ █████╗  ██╔████╔██║                    {RST}{GOLD}║
   ║  {BOLD}{GOLD} ██╔═══╝ ██╔══██╗ ██╔══╝  ██║╚██╔╝██║                    {RST}{GOLD}║
-  ║  {BOLD}{RED}  ██║     ██║  ██║  ███████╗██║ ╚═╝ ██║                    {RST}{GOLD}║
-  ║  {BOLD}{RED}  ╚═╝     ╚═╝  ╚═╝ ╚══════╝╚═╝     ╚═╝                    {RST}{GOLD}║
+  ║  {BOLD}{RED}  ██║      ██║  ██║ ███████╗██║ ╚═╝ ██║                    {RST}{GOLD}║
+  ║  {BOLD}{RED}  ╚═╝      ╚═╝  ╚═╝ ╚══════╝╚═╝     ╚═╝                    {RST}{GOLD}║
   ║                                                              ║
   ║  {GRY}  ─────────────────────────────────────────────────────  {GOLD}║
   ║  {DIM}{WHT}    BREVOUR NIKA TOOLS SUITE   ·   v3.1   ·   PREM NIKA      {RST}{GOLD}║
