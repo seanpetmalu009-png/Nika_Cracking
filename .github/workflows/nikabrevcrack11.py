@@ -275,7 +275,7 @@ sys.stdout.write('\x1b]2;𓆩【FB_CLONE 】𓆪 \x07')
 
 
 
-    # AHB Clover Logo - Blue Red White Yellow- Version 2.5
+    # AHB Clover Logo - {Blue Red White Yellow- Version 2.5
 def ____banner____():
     if 'win' in sys.platform:
         os.system('cls')
