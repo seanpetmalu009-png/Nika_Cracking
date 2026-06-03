@@ -76,12 +76,12 @@ def sep():
 BANNER = f"""{GOLD}
   ╔══════════════════════════════════════════════════════════════╗
   ║                                                              ║
-  ║  {BOLD}{GOLD} ██████╗ ██████╗  ███████╗███╗   ███╗                    {RST}{GOLD}║
-  ║  {BOLD}{GOLD} ██╔══██╗██╔══██╗ ██╔════╝████╗ ████║                    {RST}{GOLD}║
+  ║  {BOLD}{BLU}  ██████╗ ██████╗  ███████╗███╗   ███╗                    {RST}{GOLD}║
+  ║  {BOLD}{BLU}  ██╔══██╗██╔══██╗ ██╔════╝████╗ ████║                    {RST}{GOLD}║
   ║  {BOLD}{GOLD} ██████╔╝██████╔╝ █████╗  ██╔████╔██║                    {RST}{GOLD}║
   ║  {BOLD}{GOLD} ██╔═══╝ ██╔══██╗ ██╔══╝  ██║╚██╔╝██║                    {RST}{GOLD}║
-  ║  {BOLD}{GOLD} ██║     ██║  ██║ ███████╗██║ ╚═╝ ██║                    {RST}{GOLD}║
-  ║  {BOLD}{GOLD} ╚═╝     ╚═╝  ╚═╝ ╚══════╝╚═╝     ╚═╝                    {RST}{GOLD}║
+  ║  {BOLD}{RED}  ██║     ██║  ██║  ███████╗██║ ╚═╝ ██║                    {RST}{GOLD}║
+  ║  {BOLD}{RED}  ╚═╝     ╚═╝  ╚═╝ ╚══════╝╚═╝     ╚═╝                    {RST}{GOLD}║
   ║                                                              ║
   ║  {GRY}  ─────────────────────────────────────────────────────  {GOLD}║
   ║  {DIM}{WHT}    BREVOUR NIKA TOOLS SUITE   ·   v3.1   ·   PREM NIKA      {RST}{GOLD}║
@@ -95,12 +95,12 @@ BANNER = f"""{GOLD}
 KEY_BANNER = f"""{GOLD}
   ╔══════════════════════════════════════════════════════════════╗
   ║                                                              ║
-  ║  {BOLD}{GOLD}     ██╗  ██╗███████╗██╗   ██╗                          {RST}{GOLD}║
-  ║  {BOLD}{GOLD}     ██║ ██╔╝██╔════╝╚██╗ ██╔╝                          {RST}{GOLD}║
+  ║  {BOLD}{BLU}      ██╗  ██╗███████╗██╗   ██╗                          {RST}{GOLD}║
+  ║  {BOLD}{BLU}      ██║ ██╔╝██╔════╝╚██╗ ██╔╝                          {RST}{GOLD}║
   ║  {BOLD}{GOLD}     █████╔╝ █████╗   ╚████╔╝                           {RST}{GOLD}║
   ║  {BOLD}{GOLD}     ██╔═██╗ ██╔══╝    ╚██╔╝                            {RST}{GOLD}║
-  ║  {BOLD}{GOLD}     ██║  ██╗███████╗   ██║                             {RST}{GOLD}║
-  ║  {BOLD}{GOLD}     ╚═╝  ╚═╝╚══════╝   ╚═╝  VERIFICATION              {RST}{GOLD}║
+  ║  {BOLD}{RED}      ██║  ██╗███████╗   ██║                             {RST}{GOLD}║
+  ║  {BOLD}{RED}      ╚═╝  ╚═╝╚══════╝   ╚═╝  VERIFICATION              {RST}{GOLD}║
   ║                                                              ║
   ║  {GRY}  ┌────────────────────────────────────────────────────┐  {GOLD}║
   ║  {GRY}  │{WHT}   Enter your access key to unlock the suite       {GRY}  │  {GOLD}║
