@@ -78,15 +78,15 @@ BANNER = f"""{GOLD}
   ║                                                              ║
   ║  {BOLD}{BLU}  ██████╗ ██████╗  ███████╗███╗   ███╗                    {RST}{GOLD}║
   ║  {BOLD}{BLU}  ██╔══██╗██╔══██╗ ██╔════╝████╗ ████║                    {RST}{GOLD}║
-  ║  {BOLD}{GOLD} ██████╔╝██████╔╝ █████╗  ██╔████╔██║                    {RST}{GOLD}║
-  ║  {BOLD}{GOLD} ██╔═══╝ ██╔══██╗ ██╔══╝  ██║╚██╔╝██║                    {RST}{GOLD}║
+  ║  {BOLD}{WHT}  ██████╔╝██████╔╝ █████╗  ██╔████╔██║                    {RST}{GOLD}║
+  ║  {BOLD}{WHT}  ██╔═══╝ ██╔══██╗ ██╔══╝  ██║╚██╔╝██║                    {RST}{GOLD}║
   ║  {BOLD}{RED}  ██║      ██║  ██║ ███████╗██║ ╚═╝ ██║                    {RST}{GOLD}║
   ║  {BOLD}{RED}  ╚═╝      ╚═╝  ╚═╝ ╚══════╝╚═╝     ╚═╝                    {RST}{GOLD}║
   ║                                                              ║
   ║  {GRY}  ─────────────────────────────────────────────────────  {GOLD}║
   ║  {DIM}{WHT}    BREVOUR NIKA TOOLS SUITE   ·   v3.1   ·   PREM NIKA      {RST}{GOLD}║
   ║  {GRY}  ─────────────────────────────────────────────────────  {GOLD}║
-  ║                                                              ║
+  ║                BY NIKA BREVOUR (MAKER) DONT RESELL WITHOUT PERMISSION                                          ║
   ║  {CYN}  [+] SPAM SHARE   [+] AUTO CREATE   [+] CRACKING        {GOLD}║
   ║                                                              ║
   ╚══════════════════════════════════════════════════════════════╝{RST}
@@ -97,8 +97,8 @@ KEY_BANNER = f"""{GOLD}
   ║                                                              ║
   ║  {BOLD}{BLU}      ██╗  ██╗███████╗██╗   ██╗                          {RST}{GOLD}║
   ║  {BOLD}{BLU}      ██║ ██╔╝██╔════╝╚██╗ ██╔╝                          {RST}{GOLD}║
-  ║  {BOLD}{GOLD}     █████╔╝ █████╗   ╚████╔╝                           {RST}{GOLD}║
-  ║  {BOLD}{GOLD}     ██╔═██╗ ██╔══╝    ╚██╔╝                            {RST}{GOLD}║
+  ║  {BOLD}{WHT}      █████╔╝ █████╗   ╚████╔╝                           {RST}{GOLD}║
+  ║  {BOLD}{WHT}      ██╔═██╗ ██╔══╝    ╚██╔╝                            {RST}{GOLD}║
   ║  {BOLD}{RED}      ██║  ██╗███████╗   ██║                             {RST}{GOLD}║
   ║  {BOLD}{RED}      ╚═╝  ╚═╝╚══════╝   ╚═╝  VERIFICATION              {RST}{GOLD}║
   ║                                                              ║
