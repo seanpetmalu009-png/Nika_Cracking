@@ -1,4 +1,4 @@
-#DECODED BY NETZ
+#DECODED BY NIKA
 import os
 import sys
 import re
@@ -383,11 +383,11 @@ def banner():
 ██╔══██║██║   ██║   ██║   ██║   ██║      {R}██╔══╝  ██╔══██╗
 ██║  ██║╚██████╔╝   ██║   ╚██████╔╝      {R}██║     ██████╔╝
 ╚═╝  ╚═╝ ╚═════╝    ╚═╝    ╚═════╝       {R}╚═╝     ╚═════╝
-            {W}A U T O  –  F B
+            {W}A U T O  –  F B (MAKER IS NIKABREVOUR) 
 {W}─────────────────────────────────────────────{W}
-{W}[{G}•{W}]{G} DEVELOPER {W}:{R} netz
-{W}[{G}•{W}]{G} FACEBOOK  {W}:{R} netz
-{W}[{G}•{W}]{G} GITHUB    {W}:{R} netz
+{W}[{G}•{W}]{G} DEVELOPER {W}:{R} NIKA BREVOUR
+{W}[{G}•{W}]{G} FACEBOOK  {W}:{R} NIKA BREVOUR
+{W}[{G}•{W}]{G} GITHUB    {W}:{R} nika
 {W}[{G}•{W}]{G} TOOL      {W}:{R} AUTO-FB
 {W}─────────────────────────────────────────────{W}""")
 
