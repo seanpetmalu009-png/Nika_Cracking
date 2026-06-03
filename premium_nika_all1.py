@@ -76,15 +76,15 @@ def sep():
 BANNER = f"""{GOLD}
   ╔══════════════════════════════════════════════════════════════╗
   ║                                                              ║
-  ║  {BOLD}{TEAL} ██████╗ ██████╗  ███████╗███╗   ███╗                    {RST}{GOLD}║
-  ║  {BOLD}{TEAL} ██╔══██╗██╔══██╗ ██╔════╝████╗ ████║                    {RST}{GOLD}║
-  ║  {BOLD}{WHT} ██████╔╝██████╔╝ █████╗  ██╔████╔██║                    {RST}{GOLD}║
-  ║  {BOLD}{WHT} ██╔═══╝ ██╔══██╗ ██╔══╝  ██║╚██╔╝██║                    {RST}{GOLD}║
+  ║  {BOLD}{GOLD} ██████╗ ██████╗  ███████╗███╗   ███╗                    {RST}{GOLD}║
+  ║  {BOLD}{GOLD} ██╔══██╗██╔══██╗ ██╔════╝████╗ ████║                    {RST}{GOLD}║
+  ║  {BOLD}{GOLD} ██████╔╝██████╔╝ █████╗  ██╔████╔██║                    {RST}{GOLD}║
+  ║  {BOLD}{GOLD} ██╔═══╝ ██╔══██╗ ██╔══╝  ██║╚██╔╝██║                    {RST}{GOLD}║
   ║  {BOLD}{GOLD} ██║     ██║  ██║ ███████╗██║ ╚═╝ ██║                    {RST}{GOLD}║
   ║  {BOLD}{GOLD} ╚═╝     ╚═╝  ╚═╝ ╚══════╝╚═╝     ╚═╝                    {RST}{GOLD}║
   ║                                                              ║
   ║  {GRY}  ─────────────────────────────────────────────────────  {GOLD}║
-  ║  {DIM}{WHT}    PREM NIKA TOOLS SUITE   ·   v3.1   ·   PREM NIKA      {RST}{GOLD}║
+  ║  {DIM}{WHT}    BREVOUR NIKA TOOLS SUITE   ·   v3.1   ·   PREM NIKA      {RST}{GOLD}║
   ║  {GRY}  ─────────────────────────────────────────────────────  {GOLD}║
   ║                                                              ║
   ║  {CYN}  [+] SPAM SHARE   [+] AUTO CREATE   [+] CRACKING        {GOLD}║
@@ -95,10 +95,10 @@ BANNER = f"""{GOLD}
 KEY_BANNER = f"""{GOLD}
   ╔══════════════════════════════════════════════════════════════╗
   ║                                                              ║
-  ║  {BOLD}{TEAL}     ██╗  ██╗███████╗██╗   ██╗                          {RST}{GOLD}║
-  ║  {BOLD}{TEAL}     ██║ ██╔╝██╔════╝╚██╗ ██╔╝                          {RST}{GOLD}║
-  ║  {BOLD}{WHT}     █████╔╝ █████╗   ╚████╔╝                           {RST}{GOLD}║
-  ║  {BOLD}{WHT}     ██╔═██╗ ██╔══╝    ╚██╔╝                            {RST}{GOLD}║
+  ║  {BOLD}{GOLD}     ██╗  ██╗███████╗██╗   ██╗                          {RST}{GOLD}║
+  ║  {BOLD}{GOLD}     ██║ ██╔╝██╔════╝╚██╗ ██╔╝                          {RST}{GOLD}║
+  ║  {BOLD}{GOLD}     █████╔╝ █████╗   ╚████╔╝                           {RST}{GOLD}║
+  ║  {BOLD}{GOLD}     ██╔═██╗ ██╔══╝    ╚██╔╝                            {RST}{GOLD}║
   ║  {BOLD}{GOLD}     ██║  ██╗███████╗   ██║                             {RST}{GOLD}║
   ║  {BOLD}{GOLD}     ╚═╝  ╚═╝╚══════╝   ╚═╝  VERIFICATION              {RST}{GOLD}║
   ║                                                              ║
