@@ -694,7 +694,7 @@ def extractor(data):
 versn='0.1';version=str(versn)
 #-----------------------( SHORT )-----------------------#
 __COUNTRYS__=af['country'].upper()
-os.system("xdg-open https://t.me/+ySgl6S0nEZwwYWFl")
+os.system("xdg-open https://t.me/nikatoolsntuts")
 #-----------------------( LOGO )-----------------------#
 logo=("""\033[1;32m    ██   ██ ██ ████████ ████████ ██    ██ 
     ██  ██  ██    ██       ██     ██  ██  
