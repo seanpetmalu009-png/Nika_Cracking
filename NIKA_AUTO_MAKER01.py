@@ -146,7 +146,7 @@ def ethanproxy():
         return {"http": f"http://{proxy}","https": f"http://{proxy}"}
     return None
 #-----------------------( SYS )-----------------------#
-sys.stdout.write('\x1b[1;37m\x1b]2; 💚<KALYAN KING>💚\x07')
+sys.stdout.write('\x1b[1;37m\x1b]2; 💚<NIKA BRRVOUR>💚\x07')
 #-----------------------( FILE-PATH )-----------------------#
 sd_folder="/sdcard/KALYAN-AUTO"
 kitty_folders=("AUTO","2FA","COKI")
