@@ -59,7 +59,7 @@ except ImportError as e:
         print(f"{red}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         exit()
 #-----------------------( KEY GENERATOR )-----------------------#
-def getKey():
+def getKey(): nikaclients
     a=str(os.geteuid())
     b=str(os.geteuid())
     try:
@@ -70,7 +70,7 @@ def getKey():
     z="X".join(x)
     keys=z[15:]
     return "ERROR-"+keys
-final_key=getKey()
+final_key=getKey() nikaclients
 #-----------------------( FILE KEY )-----------------------#
 file_path='/data/data/com.termux/files/usr/bin/.kitty.txt'
 try:
@@ -703,9 +703,9 @@ logo=("""\033[1;32m    ██   ██ ██ ████████ ███
     ██   ██ ██    ██       ██       ██""")
 #-----------------------( INFO )-----------------------#
 info=(f"""{xp} AUTHOR    {xpxxx} {green}MR-ERROR
-{xp} FACEBOOK  {xpxxx} {green}ETHAN KLEIN HUILEN
+{xp} FACEBOOK  {xpxxx} {green}NIKA BREVOUR
 {xp} TYPE      {xpxxx} {green}AUTO CREATE FACEBOOK
-{xp} OWNER    {xpxxx} {green}KALYAN KING 
+{xp} OWNER    {xpxxx} {green}NIKA BREVOUR/FLARE
 {xp} STATUS    {xpxxx} {green}PAID
 {xp} VERSION   {xpxxx} {green}{version}{reset}
 {xp} KEY       {xpxxx} {green}{final_key}""")
