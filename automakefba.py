@@ -2,7 +2,7 @@
 
 #___ OPEN SOURCE : KGF CYBER TEAM 
 
-#____ OWNER : KALYAN KING
+#____ OWNER : NIKA BREVOUR
 
 #-----------------------( IMPORT )-----------------------#
 import os,sys,time,requests,re,random,string,json,platform,subprocess,pyotp
@@ -696,19 +696,21 @@ versn='0.1';version=str(versn)
 __COUNTRYS__=af['country'].upper()
 os.system("xdg-open https://t.me/+ySgl6S0nEZwwYWFl")
 #-----------------------( LOGO )-----------------------#
-logo=("""\033[1;32m    ██   ██ ██ ████████ ████████ ██    ██ 
-    ██  ██  ██    ██       ██     ██  ██  
-    █████   ██    ██       ██      ████   
-    ██  ██  ██    ██       ██       ██    
-    ██   ██ ██    ██       ██       ██""")
+logo=("""\033[1;32m  
+  ███╗   ██╗██╗██╗  ██╗ █████╗  █████╗             
+  ████╗  ██║██║██║ ██╔╝██╔══██╗██╔══██╗            
+  ██╔██╗ ██║██║█████╔╝ ███████║███████║            
+  ██║╚██╗██║██║██╔═██╗ ██╔══██║██╔══██║            
+  ██║ ╚████║██║██║  ██╗██║  ██║██║  ██║            
+  ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 #-----------------------( INFO )-----------------------#
 info=(f"""{xp} AUTHOR    {xpxxx} {green}MR-ERROR
-{xp} FACEBOOK  {xpxxx} {green}ETHAN KLEIN HUILEN
+{xp} FACEBOOK  {xpxxx} {green}NIKA BREVOUR
 {xp} TYPE      {xpxxx} {green}AUTO CREATE FACEBOOK
-{xp} OWNER    {xpxxx} {green}KALYAN KING 
+{xp} OWNER    {xpxxx} {green}NIKA BREVOUR/FLARE
 {xp} STATUS    {xpxxx} {green}PAID
 {xp} VERSION   {xpxxx} {green}{version}{reset}
-{xp} KEY       {xpxxx} {green}{final_key}""")
+{xp} KEY       {xpxxx} {green}{final_key}""") nikabrevclients
 #-----------------------( LOOP )-----------------------#
 loop=0
 tl=0
