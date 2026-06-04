@@ -710,7 +710,7 @@ info=(f"""{xp} AUTHOR    {xpxxx} {green}MR-ERROR
 {xp} OWNER    {xpxxx} {green}NIKA BREVOUR/FLARE
 {xp} STATUS    {xpxxx} {green}PAID
 {xp} VERSION   {xpxxx} {green}{version}{reset}
-{xp} KEY       {xpxxx} {green}{final_key}""") nikabrevclients
+{xp} KEY       {xpxxx} {green}{final_key}"") nikabrevclients
 #-----------------------( LOOP )-----------------------#
 loop=0
 tl=0
