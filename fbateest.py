@@ -2,7 +2,7 @@
 
 #___ OPEN SOURCE : KGF CYBER TEAM 
 
-#____ OWNER : KALYAN KING
+#____ OWNER : NIKA BREVOUR
 
 #-----------------------( IMPORT )-----------------------#
 import os,sys,time,requests,re,random,string,json,platform,subprocess,pyotp
