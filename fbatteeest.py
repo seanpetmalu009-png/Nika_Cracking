@@ -59,7 +59,7 @@ except ImportError as e:
         print(f"{red}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         exit()
 #-----------------------( KEY GENERATOR )-----------------------#
-def getKey(): nikaclients
+def getKey(): 
     a=str(os.geteuid())
     b=str(os.geteuid())
     try:
@@ -70,7 +70,7 @@ def getKey(): nikaclients
     z="X".join(x)
     keys=z[15:]
     return "ERROR-"+keys
-final_key=getKey() nikaclients
+final_key=getKey() 
 #-----------------------( FILE KEY )-----------------------#
 file_path='/data/data/com.termux/files/usr/bin/.kitty.txt'
 try:
