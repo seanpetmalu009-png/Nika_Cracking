@@ -26,12 +26,12 @@ import time
 
 
 # admin account 
-admin_url = "https://t.me/+aLGiUUec9w43ODdl"
+admin_url = "https://t.me/nikatoolsntuts"
 
 
 # Valid keys (cleaned - no trailing space)
 approved_keys = [
-    "raikieclient"
+    "nikaaflareclient"
 ]
 
 
